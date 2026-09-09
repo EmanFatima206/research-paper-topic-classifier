@@ -3,7 +3,7 @@
 An NLP-based machine learning project that automatically classifies research papers into different computer science research domains using their titles and abstracts.
 
 ## Run project
-<a href="https://colab.research.google.com/github/EmanFatima206/research-paper-topic-classifier/blob/main/Research_Paper_Topic_Classifier.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/EmanFatima206/research-paper-topic-classifier/blob/main/research_paper_topic_classifier.ipynb" target="_parent">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
